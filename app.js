@@ -23,6 +23,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const dataCard = document.getElementById('data-card');
   const controlCard = document.getElementById('control-card');
   
+  // Load More elements
+  const loadMoreContainer = document.getElementById('load-more-container');
+  const loadMoreBtn = document.getElementById('load-more-btn');
+  
   // New buttons
   const showOffersBtn = document.getElementById('show-offers-btn');
   const toggleSettingsBtn = document.getElementById('toggle-settings-btn');
@@ -30,6 +34,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // App State
   let allOffers = [];
   let categoryMap = {};
+  let displayedCount = 10;
+
   
   // Tabs Switcher
   const tabs = [
@@ -138,7 +144,14 @@ document.addEventListener('DOMContentLoaded', () => {
     parseXML(text);
   });
   
+  // Load more variants when button clicked
+  loadMoreBtn.addEventListener('click', () => {
+    displayedCount += 10;
+    renderTable();
+  });
+  
   searchInput.addEventListener('input', () => {
+    displayedCount = 10; // Reset pagination when search changes
     renderTable();
   });
   
@@ -280,6 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
       dataCard.classList.remove('hidden');
       statusContainer.classList.add('hidden');
       
+      displayedCount = 10; // Reset pagination
       renderTable();
     } catch (err) {
       console.error(err);
@@ -312,14 +326,15 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderTable() {
     tableBody.innerHTML = '';
     const sortedAndFiltered = getFilteredOffers();
-    const top10 = sortedAndFiltered.slice(0, 10);
+    const visibleOffers = sortedAndFiltered.slice(0, displayedCount);
     
-    if (top10.length === 0) {
+    if (visibleOffers.length === 0) {
       tableBody.innerHTML = `<tr><td colspan="6" style="text-align: center; color: var(--text-muted); padding: 2rem;">Товары не найдены</td></tr>`;
+      loadMoreContainer.classList.add('hidden');
       return;
     }
     
-    top10.forEach((offer, index) => {
+    visibleOffers.forEach((offer, index) => {
       const row = document.createElement('tr');
       
       let stockClass = 'stock-low';
@@ -365,6 +380,13 @@ document.addEventListener('DOMContentLoaded', () => {
       `;
       tableBody.appendChild(row);
     });
+
+    // Manage visibility of "Load More" container
+    if (sortedAndFiltered.length > displayedCount) {
+      loadMoreContainer.classList.remove('hidden');
+    } else {
+      loadMoreContainer.classList.add('hidden');
+    }
   }
   
   // UI Helpers
