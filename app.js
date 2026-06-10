@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Auto-load local moment.xml if served from a server
   if (window.location.protocol.startsWith('http')) {
     showLoading('Загрузка локального фида moment.xml...');
-    fetch('moment.xml')
+    fetch(`moment.xml?_t=${Date.now()}`, { cache: 'no-store' })
       .then(response => {
         if (!response.ok) throw new Error();
         return response.text();
@@ -158,6 +158,10 @@ document.addEventListener('DOMContentLoaded', () => {
   async function fetchFeed(url) {
     showLoading('Загрузка фида...');
     
+    // Add cache buster to prevent browser and proxy caching
+    const cacheBuster = `_t=${Date.now()}`;
+    const cleanUrl = url + (url.includes('?') ? '&' : '?') + cacheBuster;
+    
     // List of CORS proxies to try if direct fetch fails
     const proxies = [
       '', // Try direct fetch first
@@ -169,8 +173,8 @@ document.addEventListener('DOMContentLoaded', () => {
     
     for (const proxy of proxies) {
       try {
-        const fetchUrl = proxy ? `${proxy}${encodeURIComponent(url)}` : url;
-        const response = await fetch(fetchUrl);
+        const fetchUrl = proxy ? `${proxy}${encodeURIComponent(cleanUrl)}` : cleanUrl;
+        const response = await fetch(fetchUrl, { cache: 'no-store' });
         if (!response.ok) throw new Error(`HTTP Error ${response.status}`);
         const text = await response.text();
         
