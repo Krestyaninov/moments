@@ -251,6 +251,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const vendorCode = vendorCodeNode ? vendorCodeNode.textContent.trim() : '';
         const sku = vendorCode || id; // Articul is vendorCode if exists, else ID
         
+        const urlNode = offer.querySelector('url');
+        const url = urlNode ? urlNode.textContent.trim() : '';
+        
         const nameNode = offer.querySelector('name');
         const name = nameNode ? nameNode.textContent.trim() : 'Без названия';
         
@@ -277,6 +280,7 @@ document.addEventListener('DOMContentLoaded', () => {
           vendorCode,
           sku,
           name,
+          url,
           price,
           oldprice,
           categoryName,
@@ -362,7 +366,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </td>
         <td>
           <div class="product-cell">
-            <span class="product-name" title="${offer.name}">${offer.name}</span>
+            ${offer.url ? `<a href="${offer.url}" target="_blank" class="product-name" title="Открыть товар на сайте">${offer.name}</a>` : `<span class="product-name" title="${offer.name}">${offer.name}</span>`}
             <span class="product-category">${offer.categoryName}</span>
           </div>
         </td>
