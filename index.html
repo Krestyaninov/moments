@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Анализатор остатков — Акция "Лови момент"</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  
+  <!-- Toast system container -->
+  <div id="toast-container" class="toast-container" aria-live="polite" aria-atomic="true"></div>
+
+  <div class="container">
+    
+    <!-- Header -->
+    <header>
+      <div class="logo-section">
+        <h1>
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+          Лови Момент <span class="badge">PRO</span>
+        </h1>
+        <p>Панель быстрого отбора ТОП-10 товаров с максимальными остатками из XML фида</p>
+      </div>
+      <div class="search-box">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="text" id="search-input" class="input-field" placeholder="Поиск по названию или SKU...">
+      </div>
+    </header>
+
+    <!-- Source Selector Controls -->
+    <div class="control-card">
+      <div class="source-selectors">
+        <button id="tab-url" class="tab-btn active">Загрузить по ссылке</button>
+        <button id="tab-file" class="tab-btn">Загрузить файл (.xml)</button>
+        <button id="tab-paste" class="tab-btn">Вставить текст</button>
+      </div>
+
+      <!-- Tab Content: URL -->
+      <div id="section-url" class="input-container">
+        <input type="url" id="feed-url" class="input-field" placeholder="Ссылка на XML фид..." value="https://appmistore.ru/upload/acrit.export/moment.xml">
+        <button id="fetch-btn" class="btn-primary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path></svg>
+          Загрузить фид
+        </button>
+      </div>
+
+      <!-- Tab Content: File Upload -->
+      <div id="section-file" class="input-container hidden">
+        <div id="drag-drop-zone" class="drag-drop-zone" style="width: 100%;">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M17 8l-5-5-5 5M12 3v12"></path></svg>
+          <p style="font-weight: 500;">Перетащите файл фида сюда или нажмите для выбора</p>
+          <span style="font-size: 0.8rem; color: var(--text-muted);">Поддерживаются файлы XML / YML</span>
+          <input type="file" id="file-input" class="hidden" accept=".xml,.yml">
+        </div>
+      </div>
+
+      <!-- Tab Content: Paste Raw XML -->
+      <div id="section-paste" class="input-container hidden" style="flex-direction: column; width: 100%;">
+        <textarea id="paste-area" class="input-field" rows="6" style="width: 100%; resize: vertical; font-family: monospace; font-size: 0.85rem;" placeholder="Вставьте полное XML содержимое фида сюда..."></textarea>
+        <button id="parse-paste-btn" class="btn-primary" style="align-self: flex-end; margin-top: 0.75rem;">
+          Обработать XML
+        </button>
+      </div>
+    </div>
+
+    <!-- Status Loading/Error message -->
+    <div id="status-container" class="status-msg">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      <p>Загрузите фид с помощью панели управления выше для отображения ТОП-10 товаров.</p>
+    </div>
+
+    <!-- Statistics Grid -->
+    <div class="stats-grid hidden">
+      <div class="stat-card">
+        <div class="stat-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg>
+        </div>
+        <div class="stat-info">
+          <div class="stat-value" id="stats-total-offers">0</div>
+          <div class="stat-label">Всего товаров</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+        </div>
+        <div class="stat-info">
+          <div class="stat-value" id="stats-in-stock">0</div>
+          <div class="stat-label">Товаров в наличии</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+        </div>
+        <div class="stat-info">
+          <div class="stat-value" id="stats-avg-price">0 ₽</div>
+          <div class="stat-label">Средняя цена</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Data Display Card -->
+    <div id="data-card" class="data-card hidden">
+      <div class="card-header">
+        <h2>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+          ТОП-10 предложений по остаткам
+        </h2>
+        <div class="actions-row">
+          <button id="copy-all-skus" class="btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            Скопировать все артикулы ТОП-10
+          </button>
+        </div>
+      </div>
+
+      <div class="table-wrapper">
+        <table id="offers-table">
+          <thead>
+            <tr>
+              <th class="col-rank">#</th>
+              <th>Артикул / Код</th>
+              <th>Товар</th>
+              <th>Цена</th>
+              <th>Остаток (Склад)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Loaded dynamically -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

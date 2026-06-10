@@ -1,0 +1,3342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-10 15:32">
+<shop>
+<categories>
+ <category id="1498">Смартфоны iPhone 17 Pro Max</category>
+<category id="1499">Смартфоны iPhone 17 Pro</category>
+<category id="1501">Смартфоны iPhone 17</category>
+<category id="1134">Смартфоны iPhone 16 Plus</category>
+<category id="1135">Смартфоны iPhone 16</category>
+<category id="1316">Galaxy A56 (2025)</category>
+<category id="1255">Galaxy S25 Ultra</category>
+<category id="1256">Galaxy S25+</category>
+<category id="1857">Xiaomi 17</category>
+<category id="1847">POCO X8 Pro</category>
+<category id="1264">POCO X7 Pro</category>
+<category id="1265">POCO X7</category>
+<category id="1659">Poco F8 Pro</category>
+<category id="1707">Poco M8</category>
+<category id="1705">Poco M8 Pro</category>
+<category id="1287">Redmi Note 14 Pro+ 5G</category>
+<category id="1286">Redmi Note 14 Pro 5G</category>
+<category id="1387">Nothing</category>
+<category id="1491">Pura 70</category>
+<category id="1601">400 pro</category>
+<category id="1909">600 Pro</category>
+<category id="1903">Vivo</category>
+<category id="1822">iPad Air 11&quot; (2026)</category>
+<category id="1744">iPad Air 11&quot; (2025)</category>
+<category id="1745">iPad Air 13&quot; (2025)</category>
+<category id="1295">iPad A16 (2025)</category>
+<category id="1436">MatePad Pro</category>
+<category id="1832">MacBook Neo</category>
+<category id="429">Huawei</category>
+<category id="997">Mac mini</category>
+<category id="1516">Watch Series 11 (2025)</category>
+<category id="920">Watch SE (2023)</category>
+<category id="1122">Galaxy Watch Ultra</category>
+<category id="1388">CMF Nothing</category>
+<category id="218">Наушники</category>
+<category id="1136">AirPods 4 (2024)</category>
+<category id="340">AirPods Pro 2</category>
+<category id="341">AirPods Max</category>
+<category id="1583">Цветные AirPods</category>
+<category id="326" parentId="218">Sony</category>
+<category id="1044" parentId="218">Bowers & Wilkins</category>
+<category id="1482" parentId="218">Nothing</category>
+<category id="332" parentId="218">Marshall</category>
+<category id="325" parentId="218">Samsung</category>
+<category id="1683" parentId="218">Bose</category>
+<category id="334" parentId="218">Beats</category>
+<category id="1400" parentId="218">Huawei</category>
+<category id="350">Яндекс</category>
+<category id="1277">Marshall</category>
+<category id="935">Mini 4 Pro</category>
+<category id="950">Антидроны</category>
+<category id="368">Sony PlayStation 5</category>
+<category id="1126">Nintendo</category>
+<category id="353">DJI</category>
+<category id="1050">GoPro</category>
+<category id="1051">Insta360</category>
+<category id="305">Робот-пылесос</category>
+<category id="306">Вертикальные пылесосы</category>
+<category id="1512">Необычные гаджеты</category>
+<category id="1567" parentId="1512">Браслеты WHOOP</category>
+<category id="1514" parentId="1512">Очки с камерой</category>
+</categories>
+<offers>
+	<offer id="13483" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/vertikalnye-pylesosy/pylesos-dreame-v12-pro-grey-global-version/</url>
+		<price>26900</price>
+		<oldprice>30600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>306</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Пылесос Dreame V12 PRO Grey Global Version</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Пылесос Dreame V12 PRO Grey Global Version</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="13491" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/robot-pylesos/robot-pylesos-dreame-bot-d10s-pro-black-global-version/</url>
+		<price>22900</price>
+		<oldprice>26100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>305</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Робот-пылесос Dreame Bot D10S Pro Black Global version</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Dreame Bot D10S Pro Black Global version</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="13602" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/vertikalnye-pylesosy/pylesos-dreame-r20-gray-gold-eu/</url>
+		<price>28900</price>
+		<oldprice>32900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>306</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Пылесос Dreame R20 Gray-Gold EU</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Пылесос Dreame R20 Gray-Gold EU</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>4</custom_label_0>
+	</offer>
+	<offer id="20978" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/kvadrokoptery/dji/seriya-mini/mini-4-pro/kvadrokopter-dji-mini-4-pro-fly-more-combo-dji-rc-2/</url>
+		<price>123000</price>
+		<oldprice>130900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>935</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Квадрокоптер DJI Mini 4 Pro Fly More Combo (DJI RC 2)</name>
+		<typePrefix>Квадрокоптер</typePrefix>
+		<vendor>DJI</vendor>
+		<model>Квадрокоптер DJI Mini 4 Pro Fly More Combo (DJI RC 2)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="21108" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/airpods-pro-2/naushniki-apple-airpods-pro-2-2023-usb-c/</url>
+		<price>14900</price>
+		<oldprice>17000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>340</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Apple AirPods Pro 2 (2023) MagSafe USB-C, белый</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 2 (2023) MagSafe USB-C, белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MTJV3</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="48967" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smart-chasy/apple-888/watch-se-2023/38515/</url>
+		<price>19000</price>
+		<oldprice>21600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>920</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смарт-часы Apple Watch SE2 (2023) - 40 mm | Midnight black | S/M</name>
+		<typePrefix>Смарт-часы</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Смарт-часы Watch SE2 (2023) - 40 mm | Midnight black | S/M</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="48987" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/igrovye-konsoli/pristavki/sony-playstation-5/ps5-slim/</url>
+		<price>48900</price>
+		<oldprice>54400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>368</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Игровая приставка Sony PlayStation 5 Slim 1 ТБ</name>
+		<typePrefix>Игровая приставка</typePrefix>
+		<vendor>Sony</vendor>
+		<model>Игровая приставка Sony PlayStation 5 Slim 1 ТБ</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="49004" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/sony/19607/</url>
+		<price>19900</price>
+		<oldprice>22700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>326</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Sony WH-1000XM5 Black (EU)</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Sony</vendor>
+		<model>Наушники Sony WH-1000XM5 Black (EU)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Малайзия</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="49041" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/bowers-wilkins/49039/</url>
+		<price>47900</price>
+		<oldprice>53300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1044</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные/проводные наушники B&amp;W Px8 (Black |Черный</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Bowers &amp; Wilkins</vendor>
+		<model>Беспроводные/проводные наушники B&amp;W Px8 (Black |Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="50587" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/airpods-4/airpods-4-s-shumopodavleniem/</url>
+		<price>15600</price>
+		<oldprice>17800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1136</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники AirPods (4-го поколения, 2024) с шумоподавлением</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Наушники AirPods (4-го поколения, 2024) с шумоподавлением</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MXP93</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>5</custom_label_0>
+	</offer>
+	<offer id="50588" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/airpods-4/naushniki-airpods4/</url>
+		<price>9900</price>
+		<oldprice>11300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1136</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники AirPods (4-го поколения, 2024)</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Наушники AirPods (4-го поколения, 2024)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MXP63</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="50599" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/airpods-max/50595/</url>
+		<price>43900</price>
+		<oldprice>48800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>341</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Apple AirPods Max USB-C Черный</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Наушники AirPods Max USB-C Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MWW43</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="51251" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/airpods-max/19549/</url>
+		<price>39000</price>
+		<oldprice>43400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>341</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Apple AirPods Max Lightning (MGYJ3R) Silver</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Наушники AirPods Max Lightning (MGYJ3R) Silver</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MGYJ3</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="51423" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/51422/</url>
+		<price>6900</price>
+		<oldprice>7900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>332</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Marshall Major V Черный</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Беспроводные наушники Marshall Major V Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>332</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="51427" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/51426/</url>
+		<price>9900</price>
+		<oldprice>11300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>332</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Marshall MINOR IV Черный</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Наушники Marshall MINOR IV Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>332</collectionId>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="51616" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/51615/</url>
+		<price>13900</price>
+		<oldprice>15800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>332</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Marshall Motif II ANC, цвет Черный</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Наушники Marshall Motif II ANC, цвет Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>332</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="53187" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/mac-mini/53184/</url>
+		<price>115000</price>
+		<oldprice>122400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>997</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Apple Mac Mini M4 (2024) 10C CPU/10C GPU, 24 ГБ RAM, 512 ГБ SSD (MCYT4)</name>
+		<typePrefix>Mac Mini</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Mac Mini M4 (2024) 10C CPU/10C GPU, 24 ГБ RAM, 512 ГБ SSD (MCYT4)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MCYT4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="53235" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/igrovye-konsoli/pristavki/sony-playstation-5/igrovaya-pristavka-sony-playstation-5-pro/</url>
+		<price>76900</price>
+		<oldprice>84600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>368</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Игровая приставка Sony PlayStation 5 Pro</name>
+		<typePrefix>Игровая приставка</typePrefix>
+		<vendor>Sony</vendor>
+		<model>Игровая приставка Sony PlayStation 5 Pro</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Япония</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>19</custom_label_0>
+	</offer>
+	<offer id="53416" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/19609/</url>
+		<price>6900</price>
+		<oldprice>7900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>332</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Marshall Major IV Black</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Наушники Marshall Major IV Black</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>332</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="53417" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/19610/</url>
+		<price>6900</price>
+		<oldprice>7900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>332</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Marshall Major IV Brown</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Наушники Marshall Major IV Brown</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>332</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54184" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/dji-34/ekshn-kamera-dji-osmo-pocket-3-creator-combo/</url>
+		<price>44000</price>
+		<oldprice>48900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>353</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера DJI Osmo Pocket 3 Creator Combo</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>DJI</vendor>
+		<model>Экшн-камера DJI Osmo Pocket 3 Creator Combo</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54226" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/s25-ultra/54214/</url>
+		<price>75000</price>
+		<oldprice>82500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1255</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Samsung Galaxy S25 Ultra | 12/512 ГБ (Black Titanium | Черный титан)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Samsung</vendor>
+		<model>Galaxy S25 Ultra | 12/512 ГБ (Black Titanium | Черный титан)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Вьетнам</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1255</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54241" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/galaxy-s25plus/54233/</url>
+		<price>51700</price>
+		<oldprice>57500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1256</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Samsung Galaxy S25 Plus | 12/256 ГБ Серый</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Samsung</vendor>
+		<model>Galaxy S25 Plus | 12/256 ГБ Серый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Вьетнам</country_of_origin>
+		<vendorCode>SM-S936B12256GRY2E1S</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54243" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/galaxy-s25plus/54235/</url>
+		<price>51700</price>
+		<oldprice>57500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1256</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Samsung Galaxy S25 Plus | 12-256 ГБ Синий</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Samsung</vendor>
+		<model>Galaxy S25 Plus | 12-256 ГБ Синий</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Вьетнам</country_of_origin>
+		<vendorCode>SM-S936B12256BLU2E1S</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54245" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/kvadrokoptery/antidrony/bulat-v4-s-keysom/</url>
+		<price>95900</price>
+		<oldprice>105400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>950</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Определитель дронов Булат V4 с кейсом</name>
+		<typePrefix>Обнаружитель Дронов</typePrefix>
+		<model>Определитель дронов Булат V4 с кейсом</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>10</custom_label_0>
+	</offer>
+	<offer id="54511" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x7-pro/54502/</url>
+		<price>26600</price>
+		<oldprice>30300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1264</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco X7 Pro | 12/256 ГБ Зеленый</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco X7 Pro | 12/256 ГБ Зеленый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1264</collectionId>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="54525" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x7/54519/</url>
+		<price>19900</price>
+		<oldprice>22700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1265</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco X7 | 8/256 ГБ Серебристый</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco X7 | 8/256 ГБ Серебристый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="54526" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x7/54520/</url>
+		<price>23900</price>
+		<oldprice>27200</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1265</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco X7 | 12/512 ГБ Серебристый</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco X7 | 12/512 ГБ Серебристый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>4</custom_label_0>
+	</offer>
+	<offer id="54528" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x7/54522/</url>
+		<price>23600</price>
+		<oldprice>26900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1265</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco X7 | 12/512 ГБ Черный</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco X7 | 12/512 ГБ Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>6</custom_label_0>
+	</offer>
+	<offer id="54680" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/beats/54667/</url>
+		<price>19900</price>
+		<oldprice>22700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>334</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные/проводные наушники Beats Studio Pro Черный</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Beats</vendor>
+		<model>Беспроводные/проводные наушники Beats Studio Pro Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>21098BLK</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54754" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/besprovodnaya-akustika/marshall/54751/</url>
+		<price>24900</price>
+		<oldprice>28300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1277</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Аудиосистема Marshall Acton BT III Бежевый</name>
+		<typePrefix>Портативная аудиосистема</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Аудиосистема Marshall Acton BT III Бежевый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54803" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/besprovodnaya-akustika/yandeks/54798/</url>
+		<price>12600</price>
+		<oldprice>14400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>350</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Умная колонка Яндекс Станция Миди Зеленый</name>
+		<typePrefix>Умные колонки</typePrefix>
+		<vendor>Яндекс</vendor>
+		<model>Умная колонка Яндекс Станция Миди Зеленый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Россия</country_of_origin>
+		<vendorCode>YNDX-00054EMD</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54844" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/robot-pylesos/54842/</url>
+		<price>15900</price>
+		<oldprice>18100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>305</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Робот-пылесос Dreame D9 Max Gen 2 (Белый | White)</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Dreame D9 Max Gen 2 (Белый | White)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="54845" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/robot-pylesos/54843/</url>
+		<price>15900</price>
+		<oldprice>18100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>305</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Робот-пылесос Dreame D9 Max Gen 2 (Черный | Black)</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Dreame D9 Max Gen 2 (Черный | Black)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="54849" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/dji-34/dji-osmo-action-5-pro-standart-combo/</url>
+		<price>28500</price>
+		<oldprice>32400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>353</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера DJI Osmo Action 5 Pro Standart Combo</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>DJI</vendor>
+		<model>Экшн-камера DJI Osmo Action 5 Pro Standart Combo</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="55010" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/redmi-note-14-pro-5g/55001/</url>
+		<price>24000</price>
+		<oldprice>27300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1286</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Redmi Note 14 Pro 5G | 12/256 ГБ (Midnight Black | Полночный чёрный) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Redmi Note 14 Pro 5G | 12/256 ГБ (Midnight Black | Полночный чёрный) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="55013" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/redmi-note-14-pro-5g/55004/</url>
+		<price>23500</price>
+		<oldprice>26800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1286</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Redmi Note 14 Pro 5G | 12/256 ГБ (Coral Green | Зелёный коралл) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Redmi Note 14 Pro 5G | 12/256 ГБ (Coral Green | Зелёный коралл) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>7</custom_label_0>
+	</offer>
+	<offer id="55026" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/redmi-note-14-pro-plus5g/55017/</url>
+		<price>25900</price>
+		<oldprice>29500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1287</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G | 12/256 ГБ (Lavender Purple | Лавандовый фиолетовый) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Redmi Note 14 Pro+ 5G | 12/256 ГБ (Lavender Purple | Лавандовый фиолетовый) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="55029" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/redmi-note-14-pro-plus5g/55020/</url>
+		<price>25900</price>
+		<oldprice>29500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1287</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G | 12/256 ГБ (Midnight black | Полночный чёрный) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Redmi Note 14 Pro+ 5G | 12/256 ГБ (Midnight black | Полночный чёрный) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="55032" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/redmi-note-14-pro-plus5g/55023/</url>
+		<price>25900</price>
+		<oldprice>29500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1287</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G | 12/256 ГБ (Frost Blue | Синий иней) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Redmi Note 14 Pro+ 5G | 12/256 ГБ (Frost Blue | Синий иней) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>10</custom_label_0>
+	</offer>
+	<offer id="55151" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-a16/55128/</url>
+		<price>29500</price>
+		<oldprice>33600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1295</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad (2025 A16) 11&quot; Wi-Fi | 128 ГБ (Silver | Серебристый)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad (2025 A16) 11&quot; Wi-Fi | 128 ГБ (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="55161" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-a16/55140/</url>
+		<price>29500</price>
+		<oldprice>33600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1295</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad (2025 A16) 11&quot; Wi-Fi | 128 ГБ (Pink | Розовый)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad (2025 A16) 11&quot; Wi-Fi | 128 ГБ (Pink | Розовый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="55164" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-a16/55143/</url>
+		<price>43500</price>
+		<oldprice>48400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1295</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad (2025 A16) 11&quot; Wi-Fi + Cellular | 128 ГБ (Pink | Розовый)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad (2025 A16) 11&quot; Wi-Fi + Cellular | 128 ГБ (Pink | Розовый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="55569" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-a-7/a56/55555/</url>
+		<price>27000</price>
+		<oldprice>30700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1316</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Samsung Galaxy A56 | 8/128 ГБ (Черный | Awesome Graphite)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Samsung</vendor>
+		<model>Galaxy A56 | 8/128 ГБ (Черный | Awesome Graphite)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1316</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="55989" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/air-11/55181/</url>
+		<price>62500</price>
+		<oldprice>68700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1744</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad Air (2025 M3) 11&quot; Wi-Fi + Cellular | 128 ГБ (Space grey | Серый космос)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad Air (2025 M3) 11&quot; Wi-Fi + Cellular | 128 ГБ (Space grey | Серый космос)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="56005" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/air-11/55197/</url>
+		<price>63500</price>
+		<oldprice>69800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1744</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad Air (2025 M3) 11&quot; Wi-Fi + Cellular | 128 ГБ (Purple | Фиолетовый)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad Air (2025 M3) 11&quot; Wi-Fi + Cellular | 128 ГБ (Purple | Фиолетовый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="56013" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/air-13/55238/</url>
+		<price>97900</price>
+		<oldprice>107600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1745</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad Air (2025 M3) 13” Wi-Fi + Cellular | 256 ГБ (Blue | Синий)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad Air (2025 M3) 13” Wi-Fi + Cellular | 256 ГБ (Blue | Синий)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="56029" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/air-13/55254/</url>
+		<price>89100</price>
+		<oldprice>98000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1745</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad Air (2025 M3) 13” Wi-Fi + Cellular | 256 ГБ (Starlight | Сияющая звезда)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad Air (2025 M3) 13” Wi-Fi + Cellular | 256 ГБ (Starlight | Сияющая звезда)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="56037" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/air-13/55262/</url>
+		<price>94900</price>
+		<oldprice>104300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1745</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет Apple iPad Air (2025 M3) 13” Wi-Fi + Cellular | 256 ГБ (Purple | Фиолетовый)</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad Air (2025 M3) 13” Wi-Fi + Cellular | 256 ГБ (Purple | Фиолетовый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="56874" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/nothing/56861/</url>
+		<price>24900</price>
+		<oldprice>28300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1387</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Nothing Phone 3A 8/128 ГБ (Белый | White)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Phone 3A 8/128 ГБ (Белый | White)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="56877" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/nothing/56865/</url>
+		<price>24200</price>
+		<oldprice>27500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1387</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Nothing Phone 3A 8/128 ГБ (Чёрный | Black)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Phone 3A 8/128 ГБ (Чёрный | Black)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="56915" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smart-chasy/cmf-nothing/56911/</url>
+		<price>5000</price>
+		<oldprice>5700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1388</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смарт-часы CMF by Nothing Watch Pro 2 - изогнутый пепельно-серый безель, оранжевый кожаный ремешок</name>
+		<typePrefix>Смарт-часы</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Смарт-часы CMF by Watch Pro 2 - изогнутый пепельно-серый безель, оранжевый кожаный ремешок</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="56918" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smart-chasy/cmf-nothing/56912/</url>
+		<price>5000</price>
+		<oldprice>5700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1388</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смарт-часы CMF by Nothing Watch Pro 2 - пепельно-серый безель, пепельно-серый силиконовый ремешок</name>
+		<typePrefix>Смарт-часы</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Смарт-часы CMF by Watch Pro 2 - пепельно-серый безель, пепельно-серый силиконовый ремешок</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="57026" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/beats/57025/</url>
+		<price>19600</price>
+		<oldprice>22300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>334</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники TWS Beats Powerbeats Pro 2 (Jet Black | Черный)</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Beats</vendor>
+		<model>Наушники TWS Beats Powerbeats Pro 2 (Jet Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="57079" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/huawei/57074/</url>
+		<price>11900</price>
+		<oldprice>13600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1400</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники TWS HUAWEI FreeBuds Pro 4 Белый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Huawei</vendor>
+		<model>Наушники TWS FreeBuds Pro 4 Белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>21</custom_label_0>
+	</offer>
+	<offer id="57116" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/igrovye-konsoli/pristavki/nintendo/57115/</url>
+		<price>40900</price>
+		<oldprice>45500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1126</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Портативная игровая консоль Nintendo Switch 2 (Черный | Black)</name>
+		<typePrefix>Портативная Приставка</typePrefix>
+		<vendor>Nintendo</vendor>
+		<model>Портативная игровая консоль Nintendo Switch 2 (Черный | Black)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Япония</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="57496" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/16-plus/50544/</url>
+		<price>75400</price>
+		<oldprice>82900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1134</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 16 Plus 512 ГБ Синий</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 16 Plus 512 ГБ Синий</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1134</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="57597" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-16/50464/</url>
+		<price>59900</price>
+		<oldprice>66600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1135</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 16 256 ГБ Розовый</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 16 256 ГБ Розовый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1135</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="57798" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/sony/57795/</url>
+		<price>27900</price>
+		<oldprice>31800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>326</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Sony WH-1000XM6 (White | Белый)</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Sony</vendor>
+		<model>Беспроводные наушники Sony WH-1000XM6 (White | Белый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Малайзия</country_of_origin>
+		<vendorCode>WH1000XM6/SME</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="57799" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/sony/57797/</url>
+		<price>27900</price>
+		<oldprice>31800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>326</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Sony WH-1000XM6 (Black | Черный)</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Sony</vendor>
+		<model>Беспроводные наушники Sony WH-1000XM6 (Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Малайзия</country_of_origin>
+		<vendorCode>WH1000XM6/BME</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>4</custom_label_0>
+	</offer>
+	<offer id="57867" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/huawei/pura/pura-70/57865/</url>
+		<price>35400</price>
+		<oldprice>39400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1491</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон HUAWEI Pura 70 12/256 ГБ Розовый (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Huawei</vendor>
+		<model>Pura 70 12/256 ГБ Розовый (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>51097VXU</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="57937" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/insta360/nsta360-x5/</url>
+		<price>37000</price>
+		<oldprice>41200</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1051</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера Insta360 X5 Black (Standard Bundle)</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>Insta360</vendor>
+		<model>Экшн-камера Insta360 X5 Black (Standard Bundle)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>4</custom_label_0>
+	</offer>
+	<offer id="58062" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/huawei/matepad-pro/58057/</url>
+		<price>44900</price>
+		<oldprice>49900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1436</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Планшет HUAWEI MatePad Pro (12.2&quot;) Wi-Fi | 12/512 ГБ, Золотой</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Huawei</vendor>
+		<model>MatePad Pro (12.2&quot;) Wi-Fi | 12/512 ГБ, Золотой</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>53014CYR</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="58195" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/nothing/58186/</url>
+		<price>58900</price>
+		<oldprice>65500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1387</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Nothing Phone (3) 16/512 ГБ (Белый | White)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Phone (3) 16/512 ГБ (Белый | White)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="58196" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/nothing/58187/</url>
+		<price>53900</price>
+		<oldprice>59900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1387</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Nothing Phone (3) 12/256 ГБ (Чёрный | Black)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Phone (3) 12/256 ГБ (Чёрный | Black)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="58539" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/bose/58534/</url>
+		<price>29900</price>
+		<oldprice>34000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1683</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Bose Quiet Comfort Ultra (Black | Черный)</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Bose</vendor>
+		<model>Наушники Bose Quiet Comfort Ultra (Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="58601" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/nothing/58591/</url>
+		<price>7900</price>
+		<oldprice>9000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1482</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Nothing Ear (a) B162 Желтый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Беспроводные наушники Ear (a) B162 Желтый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="58745" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/dji-34/dji-osmo-360-adventure-combo/</url>
+		<price>43900</price>
+		<oldprice>48800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>353</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера DJI Osmo 360 Adventure Combo</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>DJI</vendor>
+		<model>Экшн-камера DJI Osmo 360 Adventure Combo</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>95SXN7902204SL</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="58746" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/dji-34/dji-osmo-360-standard-combo/</url>
+		<price>34400</price>
+		<oldprice>38300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>353</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера DJI Osmo 360 Standard Combo</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>DJI</vendor>
+		<model>Экшн-камера DJI Osmo 360 Standard Combo</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>95SXN5400105K9</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="58896" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smart-chasy/samsung/galaxy-watch-ultra/58892/</url>
+		<price>27500</price>
+		<oldprice>31300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1122</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смарт-часы Samsung Galaxy Watch Ultra (2025) - 47 mm (SM-L705) Titanium Silver (черный ремешок)</name>
+		<typePrefix>Смарт-часы</typePrefix>
+		<vendor>Samsung</vendor>
+		<model>Смарт-часы Galaxy Watch Ultra (2025) - 47 mm (SM-L705) Titanium Silver (черный ремешок)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<vendorCode>SM-L705FZ47SLV11S</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="58906" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/bowers-wilkins/58904/</url>
+		<price>49900</price>
+		<oldprice>55500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1044</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные/проводные наушники B&amp;W Px8 (Dark Forest | Темно-зеленый)</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Bowers &amp; Wilkins</vendor>
+		<model>Беспроводные/проводные наушники B&amp;W Px8 (Dark Forest | Темно-зеленый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>5</custom_label_0>
+	</offer>
+	<offer id="59320" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro-max/59308/</url>
+		<price>122400</price>
+		<oldprice>130300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1498</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 17 Pro Max | 512 ГБ (Deep Blue | Глубокий синий)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 17 Pro Max | 512 ГБ (Deep Blue | Глубокий синий)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>Y</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1498</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59324" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro-max/59312/</url>
+		<price>121000</price>
+		<oldprice>128800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1498</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 17 Pro Max | 512 ГБ (Silver | Серебристый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 17 Pro Max | 512 ГБ (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>Y</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1498</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59347" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro/59338/</url>
+		<price>112400</price>
+		<oldprice>119600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1499</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 17 Pro | 512 ГБ (Silver | Серебристый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 17 Pro | 512 ГБ (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1499</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59349" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro/59340/</url>
+		<price>92900</price>
+		<oldprice>102100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1499</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 17 Pro | 256 ГБ (Cosmic Orange | Космический оранжевый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 17 Pro | 256 ГБ (Cosmic Orange | Космический оранжевый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1499</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59350" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro/59341/</url>
+		<price>111300</price>
+		<oldprice>118500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1499</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 17 Pro | 512 ГБ (Cosmic Orange | Космический оранжевый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 17 Pro | 512 ГБ (Cosmic Orange | Космический оранжевый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1499</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59370" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-17/59360/</url>
+		<price>65200</price>
+		<oldprice>71700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1501</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Apple iPhone 17 | 256 ГБ (Черный | Black)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPhone 17 | 256 ГБ (Черный | Black)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1501</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59643" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/marshall-monitor3/</url>
+		<price>24900</price>
+		<oldprice>28300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>332</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные-проводные наушники Marshall Monitor III A.N.C. черный</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Беспроводные-проводные наушники Marshall Monitor III A.N.C. черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>332</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59651" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/besprovodnaya-akustika/marshall/59650/</url>
+		<price>16900</price>
+		<oldprice>19300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1277</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Портативная колонка Marshall Emberton III (Black &amp; Brass | Черный)</name>
+		<typePrefix>Портативная колонка</typePrefix>
+		<vendor>Marshall</vendor>
+		<model>Портативная колонка Marshall Emberton III (Black &amp; Brass | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59664" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/bose/59662/</url>
+		<price>22900</price>
+		<oldprice>26100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1683</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Bose QuietComfort Ultra Earbuds, Голубой</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Bose</vendor>
+		<model>Беспроводные наушники Bose QuietComfort Ultra Earbuds, Голубой</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="59678" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/59676/</url>
+		<price>1900</price>
+		<oldprice>2200</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>218</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники TWS Baseus Bowie E16, Белый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Baseus</vendor>
+		<model>Наушники TWS Baseus Bowie E16, Белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="60251" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/neobychnye-gadzhety/braslety-whoop/fitnes-braslet-whoop-peak-5-0/</url>
+		<price>22900</price>
+		<oldprice>26100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1567</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Фитнес-браслет WHOOP Peak (5.0)</name>
+		<typePrefix>Фитнес-браслет</typePrefix>
+		<vendor>WHOOP</vendor>
+		<model>Фитнес-браслет WHOOP Peak (5.0)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="60581" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/nothing/60580/</url>
+		<price>19900</price>
+		<oldprice>22700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1482</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Nothing Headphone (1) Черный</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Наушники Headphone (1) Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="60902" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60853/</url>
+		<price>15900</price>
+		<oldprice>18100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники AirPods (4-го поколения, 2024), Pro Purple</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Наушники AirPods (4-го поколения, 2024), Pro Purple</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MXP63</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="61005" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60976/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Purple</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Purple</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61007" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/61006/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Gold</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Gold</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61008" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60977/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Лаванда</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Лаванда</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1924</collectionId>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61010" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60979/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Natural</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Natural</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61011" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60980/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Бордо</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Бордо</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61012" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60981/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Желтый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Желтый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61013" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60982/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Green</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Green</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61014" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60983/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Красный</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Красный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61015" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60984/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Барби</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Барби</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61016" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60985/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Blue</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Pro Blue</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1924</collectionId>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61017" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60986/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Тиффани</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Тиффани</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61018" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60987/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Небесно-голубой</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Небесно-голубой</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61019" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60988/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Оранж</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Оранж</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61020" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60989/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Розовое золото</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Розовое золото</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61021" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60990/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Ламбо</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Ламбо</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61022" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60991/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Розовый песок</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Розовый песок</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61023" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60992/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Золото</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Золото</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61024" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60993/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Silver</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Silver</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61026" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60995/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Ультрамарин</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Ультрамарин</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61028" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60997/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Альпийский</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Альпийский</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61029" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60998/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Black Edition</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Black Edition</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1924</collectionId>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61030" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/60999/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Черный</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61031" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/61000/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Лимон</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Лимон</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61032" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/61001/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Розовый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Розовый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61033" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/apple-airpods/tsvetnye-airpods/61002/</url>
+		<price>28400</price>
+		<oldprice>32300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1583</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Зеленый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Беспроводные наушники AirPods Pro 3 MagSafe (USB-C) (2025), Зеленый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MFHP4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61108" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/neobychnye-gadzhety/magssory-ultima-geo-passport/</url>
+		<price>8900</price>
+		<oldprice>10200</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1512</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Умная обложка для паспорта Magssory Ultima Geo Passport</name>
+		<vendor>Magssory</vendor>
+		<model>Умная обложка для паспорта Magssory Ultima Geo Passport</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>ACL007m</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="61254" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/400-pro/61247/</url>
+		<price>46200</price>
+		<oldprice>51400</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1601</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон HONOR 400 pro 12-512 ГБ Серый (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Honor</vendor>
+		<model>400 pro 12-512 ГБ Серый (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>5109BUTM</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1601</collectionId>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61469" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/vertikalnye-pylesosy/pylesos-dreame-r10s-essential-ru-belyy/</url>
+		<price>15900</price>
+		<oldprice>18100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>306</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Пылесос Dreame R10S Essential RU, Белый</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Пылесос Dreame R10S Essential RU, Белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>VZV29A</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="61583" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/vertikalnye-pylesosy/pylesos-dreame-h12-pro-flexreach-ru-black/</url>
+		<price>29900</price>
+		<oldprice>34000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>306</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Пылесос Dreame H12 PRO FlexReach RU, Black</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Dreame</vendor>
+		<model>Пылесос Dreame H12 PRO FlexReach RU, Black</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="61642" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tovary-dlya-doma/besprovodnye-pylesosy/robot-pylesos/robot-pylesos-roborock-qrevo-maxv-belyy/</url>
+		<price>44900</price>
+		<oldprice>49900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>305</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Робот-пылесос Roborock Qrevo MaxV, Белый</name>
+		<typePrefix>Пылесосы</typePrefix>
+		<vendor>Roborock</vendor>
+		<model>Roborock Qrevo MaxV, Белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>QRMV02-02</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="62104" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/nothing/62101/</url>
+		<price>14900</price>
+		<oldprice>17000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1482</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Беспроводные наушники Nothing Ear (3) B173, Черный</name>
+		<typePrefix>Наушники беспроводные</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Беспроводные наушники Ear (3) B173, Черный</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>V10600121</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62109" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/nothing/62107/</url>
+		<price>9900</price>
+		<oldprice>11300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1482</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Nothing headphone Pro, Темно-серый</name>
+		<typePrefix>Наушники проводные/беспроводные</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Наушники headphone Pro, Темно-серый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>A11300008</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="62113" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/dji-34/ekshn-kamera-dji-osmo-pocket-3-standard-combo/</url>
+		<price>38000</price>
+		<oldprice>42300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>353</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера DJI Osmo Pocket 3 Standard Combo</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>DJI</vendor>
+		<model>Экшн-камера DJI Osmo Pocket 3 Standard Combo</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>5</custom_label_0>
+	</offer>
+	<offer id="62172" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smart-chasy/apple-888/series-11/62171/</url>
+		<price>28000</price>
+		<oldprice>31900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1516</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смарт-часы Apple Watch S11 - 42 mm Aluminum Jet Black case | Black Sport band, S/M</name>
+		<typePrefix>Смарт-часы</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Смарт-часы Watch S11 - 42 mm Aluminum Jet Black case | Black Sport band, S/M</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1516</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62176" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smart-chasy/apple-888/series-11/62175/</url>
+		<price>28700</price>
+		<oldprice>32700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1516</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смарт-часы Apple Watch S11 - 42 mm Aluminum Rose Gold case | Light Blush Sport band, S/M</name>
+		<typePrefix>Смарт-часы</typePrefix>
+		<vendor>Apple</vendor>
+		<model>Смарт-часы Watch S11 - 42 mm Aluminum Rose Gold case | Light Blush Sport band, S/M</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1516</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62286" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-f8-pro/62285/</url>
+		<price>42900</price>
+		<oldprice>47700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1659</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco F8 Pro | 12/512 ГБ (Black | Черный)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco F8 Pro | 12/512 ГБ (Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62288" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-f8-pro/62283/</url>
+		<price>42900</price>
+		<oldprice>47700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1659</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco F8 Pro | 12/512 ГБ (Silver | Серебряный)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco F8 Pro | 12/512 ГБ (Silver | Серебряный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="62672" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/m8-pro/62666/</url>
+		<price>28700</price>
+		<oldprice>32700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1705</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 Pro | 12/512 ГБ (Silver | Серебристый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 Pro | 12/512 ГБ (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1705</collectionId>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="62673" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/m8-pro/62667/</url>
+		<price>24000</price>
+		<oldprice>27300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1705</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 Pro | 8/256 ГБ (Black | Черный)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 Pro | 8/256 ГБ (Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1705</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62674" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/m8-pro/62668/</url>
+		<price>28700</price>
+		<oldprice>32700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1705</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 Pro | 12/512 ГБ (Black | Черный)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 Pro | 12/512 ГБ (Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1705</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62675" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/m8-pro/62669/</url>
+		<price>24000</price>
+		<oldprice>27300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1705</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 Pro | 8/256 ГБ (Green | Зеленый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 Pro | 8/256 ГБ (Green | Зеленый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1705</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="62676" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/m8-pro/62670/</url>
+		<price>28700</price>
+		<oldprice>32700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1705</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 Pro | 12/512 ГБ (Green | Зеленый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 Pro | 12/512 ГБ (Green | Зеленый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1705</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="63045" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-m8/63042/</url>
+		<price>20600</price>
+		<oldprice>23500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1707</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 | 8/512 ГБ (Silver | Серебристый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 | 8/512 ГБ (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>3</custom_label_0>
+	</offer>
+	<offer id="63046" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-m8/63043/</url>
+		<price>20600</price>
+		<oldprice>23500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1707</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 | 8/512 ГБ (Black | Черный)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 | 8/512 ГБ (Black | Черный)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="63047" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-m8/63044/</url>
+		<price>20600</price>
+		<oldprice>23500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1707</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco M8 | 8/512 ГБ (Green | Зеленый)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco M8 | 8/512 ГБ (Green | Зеленый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="63961" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/ipad-air-11-2026/63929/</url>
+		<price>118500</price>
+		<oldprice>126100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1822</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>iPad Air (2026 M4) 11&quot; Wi-Fi+Sim | 1 ТБ, Space Gray</name>
+		<typePrefix>Планшет</typePrefix>
+		<vendor>Apple</vendor>
+		<model>iPad Air (2026 M4) 11&quot; Wi-Fi+Sim | 1 ТБ, Space Gray</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1822</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64021" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/huawei/64019/</url>
+		<price>379000</price>
+		<oldprice>403200</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>429</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Ноутбук HUAWEI MateBook Fold Ultimate Design (Kirin X90, 32 ГБ ОЗУ / 2 ТБ SSD) Black</name>
+		<typePrefix>Ноутбук</typePrefix>
+		<vendor>Huawei</vendor>
+		<model>MateBook Fold Ultimate Design (Kirin X90, 32 ГБ ОЗУ / 2 ТБ SSD) Black</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64043" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/macbook-neo/64034/</url>
+		<price>53800</price>
+		<oldprice>59800</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1832</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Ноутбук MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 256 ГБ SSD, (Citrus | Цитрус)</name>
+		<typePrefix>MacBook</typePrefix>
+		<vendor>Apple</vendor>
+		<model>MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 256 ГБ SSD, (Citrus | Цитрус)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MHFD4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1832</collectionId>
+		<custom_label_0>4</custom_label_0>
+	</offer>
+	<offer id="64045" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/macbook-neo/64036/</url>
+		<price>52400</price>
+		<oldprice>58300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1832</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Ноутбук MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 256 ГБ SSD, (Silver | Серебристый)</name>
+		<typePrefix>MacBook</typePrefix>
+		<vendor>Apple</vendor>
+		<model>MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 256 ГБ SSD, (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MHFA4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1832</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64046" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/macbook-neo/64037/</url>
+		<price>64700</price>
+		<oldprice>71100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1832</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Ноутбук MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 512 ГБ SSD, (Silver | Серебристый)</name>
+		<typePrefix>MacBook</typePrefix>
+		<vendor>Apple</vendor>
+		<model>MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 512 ГБ SSD, (Silver | Серебристый)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MHFC4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1832</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64049" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/macbook-neo/64040/</url>
+		<price>55400</price>
+		<oldprice>61600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1832</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Ноутбук MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 256 ГБ SSD, (Blush | Румянец)</name>
+		<typePrefix>MacBook</typePrefix>
+		<vendor>Apple</vendor>
+		<model>MacBook Neo 13&quot; A18 (2026) 6C CPU/5C GPU, 8 ГБ RAM, 256 ГБ SSD, (Blush | Румянец)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>MHFH4</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1832</collectionId>
+		<custom_label_0>5</custom_label_0>
+	</offer>
+	<offer id="64125" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/tv/ekshn-kamery/gopro/gopro-max-2/</url>
+		<price>32000</price>
+		<oldprice>35600</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1050</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Экшн-камера GoPro Max 2 | 8K (2025)</name>
+		<typePrefix>Экшн-камера</typePrefix>
+		<vendor>GoPro</vendor>
+		<model>Экшн-камера GoPro Max 2 | 8K (2025)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>CHDHZ-311-RW</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64229" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x8-pro/64219/</url>
+		<price>31500</price>
+		<oldprice>35000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1847</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi Poco X8 Pro | 12/512 ГБ Белый</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>Poco X8 Pro | 12/512 ГБ Белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1847</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64466" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/audio/naushniki/samsung-34/64464/</url>
+		<price>16900</price>
+		<oldprice>19300</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>325</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Наушники Samsung Galaxy Buds 4 Pro, Белый</name>
+		<typePrefix>Наушники TWS</typePrefix>
+		<vendor>Samsung</vendor>
+		<model>Наушники Galaxy Buds 4 Pro, Белый</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Вьетнам</country_of_origin>
+		<vendorCode>SM-R640NWHT1S</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64468" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/nothing/58185/</url>
+		<price>53900</price>
+		<oldprice>59900</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1387</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Nothing Phone (3) 12/256 ГБ (Белый | White)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Nothing</vendor>
+		<model>Phone (3) 12/256 ГБ (Белый | White)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="64607" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17/64599/</url>
+		<price>71900</price>
+		<oldprice>79100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1857</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi 17 | 12/256 ГБ (Голубой | Ice Blue) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>17 | 12/256 ГБ (Голубой | Ice Blue) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1857</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="64608" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17/64600/</url>
+		<price>75900</price>
+		<oldprice>83500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1857</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi 17 | 12/512 ГБ (Голубой | Ice Blue) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>17 | 12/512 ГБ (Голубой | Ice Blue) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1857</collectionId>
+		<custom_label_0>7</custom_label_0>
+	</offer>
+	<offer id="64609" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17/64601/</url>
+		<price>71900</price>
+		<oldprice>79100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1857</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi 17 | 12/256 ГБ (Зеленый | Venture Green) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>17 | 12/256 ГБ (Зеленый | Venture Green) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1857</collectionId>
+		<custom_label_0>4</custom_label_0>
+	</offer>
+	<offer id="64611" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17/64603/</url>
+		<price>71900</price>
+		<oldprice>79100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1857</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi 17 | 12/256 ГБ (Черный | Black) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>17 | 12/256 ГБ (Черный | Black) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1857</collectionId>
+		<custom_label_0>6</custom_label_0>
+	</offer>
+	<offer id="64612" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17/64604/</url>
+		<price>75900</price>
+		<oldprice>83500</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1857</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Xiaomi 17 | 12/512 ГБ (Черный | Black) (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Xiaomi</vendor>
+		<model>17 | 12/512 ГБ (Черный | Black) (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1857</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="65279" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/neobychnye-gadzhety/ochki-s-kameroy/futlyar-magssory-ultima-geo/</url>
+		<price>7990</price>
+		<oldprice>9100</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1514</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Умный кожаный футляр для очков Magssory Ultima Geo</name>
+		<vendor>Magssory</vendor>
+		<model>Умный кожаный футляр для очков Magssory Ultima Geo</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<vendorCode>ACL009m</vendorCode>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="65530" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/600-pro/65524/</url>
+		<price>67900</price>
+		<oldprice>74700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1909</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Honor 600 Pro 12/512 ГБ Белый (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Honor</vendor>
+		<model>600 Pro 12/512 ГБ Белый (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1909</collectionId>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+	<offer id="65532" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/600-pro/65526/</url>
+		<price>67900</price>
+		<oldprice>74700</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1909</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Honor 600 Pro 12/512 ГБ Оранжевый (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>Honor</vendor>
+		<model>600 Pro 12/512 ГБ Оранжевый (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<collectionId>1909</collectionId>
+		<custom_label_0>2</custom_label_0>
+	</offer>
+	<offer id="65537" available="true" type="vendor.model">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/vivo/65536/</url>
+		<price>125900</price>
+		<oldprice>134000</oldprice>
+		<currencyId>RUB</currencyId>
+		<categoryId>1903</categoryId>
+		<store>true</store>
+		<delivery>true</delivery>
+		<name>Смартфон Vivo X300 Ultra 12/512 ГБ Серебристый (Global Version)</name>
+		<typePrefix>Смартфон</typePrefix>
+		<vendor>vivo</vendor>
+		<model>X300 Ultra 12/512 ГБ Серебристый (Global Version)</model>
+		<manufacturer_warranty>true</manufacturer_warranty>
+		<country_of_origin>Китай</country_of_origin>
+		<pickup>true</pickup>
+		<adult>false</adult>
+		<age>+6</age>
+		<downloadable>false</downloadable>
+		<custom_label_0>1</custom_label_0>
+	</offer>
+</offers>
+<collections>
+	<collection id="332">
+		<url>https://appmistore.ru/catalog/audio/naushniki/marshall/</url>
+	</collection>
+	<collection id="1132">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-16-pro-max/</url>
+		<name>Смартфоны Apple iPhone 16 Pro Max</name>
+		<description>Оригинальные iPhone 16 Pro Max в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1133">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-16-pro/</url>
+		<name>Смартфоны Apple iPhone 16 Pro</name>
+		<description>Оригинальные iPhone 16 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1134">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/16-plus/</url>
+		<name>Смартфоны Apple iPhone 16 Plus</name>
+		<description>Оригинальные iPhone 16 Plus в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1135">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-16/</url>
+		<name>Смартфоны Apple iPhone 16</name>
+		<description>Оригинальные iPhone 16 в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1255">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/s25-ultra/</url>
+		<name>Смартфоны Samsung Galaxy S25 Ultra</name>
+		<description>Оригинальные Galaxy S25 Ultra в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1264">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x7-pro/</url>
+		<name>Смартфоны Xiaomi POCO X7 Pro</name>
+		<description>Оригинальные POCO X7 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1316">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-a-7/a56/</url>
+		<name>Смартфоны Samsung Galaxy A56 (2025)</name>
+		<description>Оригинал Samsung Galaxy A56 (2025) в наличии. Цены супер, доставка сегодня!</description>
+	</collection>
+	<collection id="1432">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-z/z-fold7-z-flip7/</url>
+		<name>Смартфоны Galaxy Z Fold7 | Z Flip7</name>
+		<description>Оригинальные Galaxy Z Fold7 и Flip7 в наличии. Цены супер, доставка сегодня!</description>
+	</collection>
+	<collection id="1498">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro-max/</url>
+		<name>Смартфоны Apple iPhone 17 Pro Max</name>
+		<description>Оригинальные iPhone 17 Pro Max в наличии. Доставка сегодня!</description>
+	</collection>
+	<collection id="1499">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-pro/</url>
+		<name>Смартфоны Apple iPhone 17 Pro</name>
+		<description>Оригинальные iPhone 17 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1500">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/17-air/</url>
+		<name>Смартфоны Apple iPhone 17 Air</name>
+		<description>Оригинальные iPhone 17 Air в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1501">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-17/</url>
+		<name>Смартфоны Apple iPhone 17</name>
+		<description>Оригинальные iPhone 17 в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1506">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/samsung-542/tab-s11/</url>
+		<name>Планшеты Samsung Tab S11</name>
+		<description>Оригинальные Samsung Tab S11 в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1507">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/samsung-542/s11-ultra/</url>
+		<name>Планшеты Samsung Tab S11 Ultra</name>
+		<description>Оригинальные Samsung Tab S11 Ultra в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1516">
+		<url>https://appmistore.ru/catalog/smart-chasy/apple-888/series-11/</url>
+		<name>Смарт-часы Apple Watch Series 11 (2025)</name>
+	</collection>
+	<collection id="1517">
+		<url>https://appmistore.ru/catalog/smart-chasy/apple-888/watch-se-3/</url>
+		<name>Смарт-часы Apple Watch SE 3 (2025)</name>
+	</collection>
+	<collection id="1537">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/google-pixel/10-pro-xl/</url>
+		<name>Смартфоны Google Pixel 10 Pro XL</name>
+		<description>Оригинальные Google Pixel 10 Pro XL в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1539">
+		<url>https://appmistore.ru/catalog/smart-chasy/apple-888/ultra3-2025/</url>
+		<name>Смарт-часы Apple Watch Ultra 3 (2025)</name>
+	</collection>
+	<collection id="1543">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/google-pixel/pixel10pro-fold/</url>
+		<name>Смартфоны Google Pixel 10 Pro Fold</name>
+		<description>Оригинал Google Pixel 10 Pro Fold в наличии. Цены супер, доставка сегодня!</description>
+	</collection>
+	<collection id="1601">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/400-pro/</url>
+		<name>Смартфоны Honor 400 pro</name>
+		<description>Оригинальные Смартфоны Honor 400 pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1629">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/magic-v5/</url>
+		<name>Смартфоны Honor Magic V5</name>
+		<description>Оригинальные Смартфоны Honor Magic V5 в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1630">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/magic-8-pro/</url>
+		<name>Смартфоны Honor Magic 8 Pro</name>
+		<description>Оригинальные Смартфоны Honor Magic 8 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1677">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/redmi-note-15-pro/</url>
+		<name>Смартфоны Xiaomi Redmi Note 15 Pro</name>
+		<description>Оригинальные Redmi Note 15 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1678">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/redmi-note/note-15-pro-plus/</url>
+		<name>Смартфоны Xiaomi Redmi Note 15 Pro Plus</name>
+		<description>Оригинальные Redmi Note 15 Pro Plus в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1705">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/m8-pro/</url>
+		<name>Смартфоны Xiaomi Poco M8 Pro</name>
+		<description>Оригинальные Poco M8 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1724">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17-pro-max/</url>
+		<name>Смартфоны Xiaomi 17 Pro Max</name>
+		<description>Оригинальные Xiaomi 17 Pro Max в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1725">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17-ultra/</url>
+		<name>Смартфоны Xiaomi 17 Ultra</name>
+		<description>Оригинальные Xiaomi 17 Ultra в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1746">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-pro/pro-11-2025/</url>
+		<name>Планшеты Apple iPad Pro 11&quot; (2025)</name>
+		<description>Оригинальные планшеты Apple iPad Pro 11&quot; (2025) в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1807">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/s26/</url>
+		<name>Смартфоны Samsung Galaxy S26</name>
+		<description>Оригинальные Galaxy S26 в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1809">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/s26plus/</url>
+		<name>Смартфоны Samsung Galaxy S26+</name>
+		<description>Оригинальные Galaxy S26+ в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1810">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-s-5/s26-ultra/</url>
+		<name>Смартфоны Samsung Galaxy S26 Ultra</name>
+		<description>Оригинальные Galaxy S26 Ultra в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1816">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/apple-iphone/iphone-17e/</url>
+		<name>Смартфоны Apple iPhone 17e</name>
+		<description>Оригинальные iPhone 17e в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1819">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/ipad-air-2026/</url>
+		<name>Планшеты Apple iPad Air 13&quot; (2026)</name>
+		<description>Оригинальные планшеты Apple iPad Air 13&quot; (2026) в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1822">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/planshety/ipad/ipad-air/ipad-air-11-2026/</url>
+		<name>Планшеты Apple iPad Air 11&quot; (2026)</name>
+		<description>Оригинальные планшеты Apple iPad Air 11&quot; (2026) в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1832">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/macbook-neo/</url>
+		<name>Ноутбуки Macbook Neo</name>
+	</collection>
+	<collection id="1833">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/apple-macbook-pro/pro-16-2026/</url>
+		<name>Ноутбуки Macbook Pro 16&quot; (2026)</name>
+	</collection>
+	<collection id="1835">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/oneplus-p/15r/</url>
+		<name>Смартфоны OnePlus 15R</name>
+		<description>Оригинальные OnePlus 15R в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1846">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/x8-pro-max/</url>
+		<name>Смартфоны Xiaomi POCO X8 Pro Max</name>
+		<description>Оригинальные POCO X8 Pro Max в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1847">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/pocophone/poco-x8-pro/</url>
+		<name>Смартфоны Xiaomi POCO X8 Pro</name>
+		<description>Оригинальные POCO X8 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1851">
+		<url>https://appmistore.ru/catalog/noutbuki-i-kompyutery/noutbuki/macbook/apple-macbook-air/air-2026/</url>
+		<name>Ноутбуки Macbook Air (2026)</name>
+	</collection>
+	<collection id="1857">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/xiaomi-6647/xiaomi-33/17/</url>
+		<name>Смартфоны Xiaomi 17</name>
+		<description>Оригинальные Xiaomi 17 в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1883">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/huawei/mate-series/mate-70-pro/</url>
+		<name>Смартфоны Huawei Mate 70 Pro</name>
+		<description>Оригинальные Huawei Mate 70 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1884">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/huawei/mate-series/mate-80-pro/</url>
+		<name>Смартфоны Huawei Mate 80 Pro</name>
+		<description>Оригинальные Huawei Mate 80 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+	<collection id="1888">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/samsung-986/series-a-7/a57/</url>
+		<name>Смартфоны Samsung Galaxy A57 (2026)</name>
+		<description>Оригинал Samsung Galaxy A57 (2026) в наличии. Цены супер, доставка сегодня!</description>
+	</collection>
+	<collection id="1909">
+		<url>https://appmistore.ru/catalog/smartfony-i-planshety/aksessuary-phone2/honor/600-pro/</url>
+		<name>Смартфоны Honor 600 Pro</name>
+		<description>Оригинальные Смартфоны Honor 600 Pro в наличии. Отличные цены и доставка сегодня!</description>
+	</collection>
+</collections>
+</shop>
+</yml_catalog>
