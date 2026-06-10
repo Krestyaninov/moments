@@ -589,6 +589,21 @@ tr:nth-child(3) .col-rank { color: #cd7f32; } /* Bronze */
   pointer-events: none;
 }
 
+/* Action Bar */
+.action-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.btn-large {
+  padding: 0.9rem 2rem;
+  font-size: 1.05rem;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   body {
@@ -618,8 +633,9 @@ tr:nth-child(3) .col-rank { color: #cd7f32; } /* Bronze */
     flex-direction: column;
   }
   
-  .btn-primary {
+  .btn-primary, .action-bar, .action-bar button {
     width: 100%;
     justify-content: center;
   }
 }
+

@@ -18,14 +18,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const searchInput = document.getElementById('search-input');
   const copyAllSkusBtn = document.getElementById('copy-all-skus');
   
-  const statsTotalOffers = document.getElementById('stats-total-offers');
-  const statsInStock = document.getElementById('stats-in-stock');
-  const statsAvgPrice = document.getElementById('stats-avg-price');
-  
   const tableBody = document.querySelector('#offers-table tbody');
   const statusContainer = document.getElementById('status-container');
   const dataCard = document.getElementById('data-card');
-  const statsGrid = document.querySelector('.stats-grid');
+  const controlCard = document.getElementById('control-card');
+  
+  // New buttons
+  const showOffersBtn = document.getElementById('show-offers-btn');
+  const toggleSettingsBtn = document.getElementById('toggle-settings-btn');
   
   // App State
   let allOffers = [];
@@ -49,6 +49,22 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // Toggle settings panel
+  toggleSettingsBtn.addEventListener('click', () => {
+    controlCard.classList.toggle('hidden');
+  });
+
+  // Main action button triggers loading the URL feed
+  showOffersBtn.addEventListener('click', () => {
+    const url = feedUrlInput.value.trim();
+    if (!url) {
+      showToast('Введите URL фида в настройках', 'error');
+      controlCard.classList.remove('hidden');
+      return;
+    }
+    fetchFeed(url);
+  });
+  
   // Auto-load local moment.xml if served from a server
   if (window.location.protocol.startsWith('http')) {
     showLoading('Загрузка локального фида moment.xml...');
@@ -65,11 +81,10 @@ document.addEventListener('DOMContentLoaded', () => {
         // Fallback silently to show standard welcome message
         statusContainer.innerHTML = `
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-          <p>Загрузите фид с помощью панели управления выше для отображения ТОП-10 товаров.</p>
+          <p>Нажмите на кнопку выше, чтобы загрузить товары для акции.</p>
         `;
       });
   }
-
   
   // Drag and Drop events
   ['dragenter', 'dragover'].forEach(eventName => {
@@ -258,28 +273,14 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       
       // Show data and stats
-      statsGrid.classList.remove('hidden');
       dataCard.classList.remove('hidden');
       statusContainer.classList.add('hidden');
       
-      updateStats();
       renderTable();
     } catch (err) {
       console.error(err);
       showError(`Ошибка чтения XML-фида: ${err.message}`);
     }
-  }
-  
-  // Calculate and display stats
-  function updateStats() {
-    statsTotalOffers.textContent = allOffers.length;
-    
-    const totalInStock = allOffers.filter(o => o.stock > 0).length;
-    statsInStock.textContent = totalInStock;
-    
-    const prices = allOffers.map(o => o.price).filter(p => p > 0);
-    const avg = prices.length ? Math.round(prices.reduce((sum, val) => sum + val, 0) / prices.length) : 0;
-    statsAvgPrice.textContent = avg.toLocaleString('ru-RU') + ' ₽';
   }
   
   // Filter offers based on search query
@@ -364,7 +365,6 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // UI Helpers
   function showLoading(msg) {
-    statsGrid.classList.add('hidden');
     dataCard.classList.add('hidden');
     statusContainer.classList.remove('hidden');
     statusContainer.innerHTML = `
@@ -374,7 +374,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   
   function showError(msg) {
-    statsGrid.classList.add('hidden');
     dataCard.classList.add('hidden');
     statusContainer.classList.remove('hidden');
     statusContainer.innerHTML = `
